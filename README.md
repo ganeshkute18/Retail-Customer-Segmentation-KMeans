@@ -25,3 +25,5 @@ Matplotlib, Seaborn (Visualization)
 
 Results & Insights
 The model groups customers into meaningful segments, helping businesses optimize marketing strategies and personalize customer engagement.
+
+Dataset link : https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
