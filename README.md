@@ -9,7 +9,7 @@ This project applies K-Means Clustering to segment customers of a retail store b
 ✅ Visualize customer clusters for better insights.
 
 📂 Dataset
-The dataset contains customer transaction details, including:
+The dataset contains customer transaction details, includingDataset :- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python:
 
 Customer ID 🆔
 Total Spend 💰
